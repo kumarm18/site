@@ -1,0 +1,11 @@
+body{
+  background-color: green;
+}
+
+table, th, td {
+  height: 50px;
+}
+
+img {
+  width: 500px;
+}
