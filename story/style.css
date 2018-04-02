@@ -58,3 +58,21 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+table {
+  color:blue;
+  letter-spacing: 3px;
+  border: double;
+  border-color: lightblue;
+  border-width: 7px
+}
+
+a {
+  font-size: 15px;
+  color:pink;
+
+}
+
+p.a {
+  font: italic bold Georgia, serif;
+}
