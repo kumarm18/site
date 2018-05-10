@@ -1,0 +1,11 @@
+.carousel {
+  height: 500px;
+  width: 500px;
+}
+.carousel-control-next {
+  background-color: grey;
+}
+
+.carousel-control-prev {
+  background-color: grey;
+}
